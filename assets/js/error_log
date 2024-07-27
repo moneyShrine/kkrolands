@@ -1,0 +1,27 @@
+[27-Aug-2023 15:32:59 America/Boise] PHP Warning:  require(/mail/src/PHPMailer.php): Failed to open stream: No such file or directory in /home4/ildjgbmy/public_html/assets/js/send_email.php on line 12
+[27-Aug-2023 15:32:59 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/mail/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/ildjgbmy/public_html/assets/js/send_email.php:12
+Stack trace:
+#0 {main}
+  thrown in /home4/ildjgbmy/public_html/assets/js/send_email.php on line 12
+[27-Aug-2023 15:38:28 America/Boise] PHP Warning:  require(/mail/src/PHPMailer.php): Failed to open stream: No such file or directory in /home4/ildjgbmy/public_html/assets/js/send_email.php on line 12
+[27-Aug-2023 15:38:28 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/mail/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/ildjgbmy/public_html/assets/js/send_email.php:12
+Stack trace:
+#0 {main}
+  thrown in /home4/ildjgbmy/public_html/assets/js/send_email.php on line 12
+[27-Aug-2023 15:45:54 America/Boise] PHP Warning:  require(/mail/src/PHPMailer.php): Failed to open stream: No such file or directory in /home4/ildjgbmy/public_html/assets/js/send_email.php on line 15
+[27-Aug-2023 15:45:54 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/mail/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/ildjgbmy/public_html/assets/js/send_email.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/ildjgbmy/public_html/assets/js/send_email.php on line 15
+[27-Aug-2023 15:50:24 America/Boise] PHP Warning:  require(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home4/ildjgbmy/public_html/assets/js/send_email.php on line 15
+[27-Aug-2023 15:50:24 America/Boise] PHP Warning:  require(https://kkrolands.com/assets/js/mail/src/PHPMailer.php): Failed to open stream: no suitable wrapper could be found in /home4/ildjgbmy/public_html/assets/js/send_email.php on line 15
+[27-Aug-2023 15:50:24 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'https://kkrolands.com/assets/js/mail/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/ildjgbmy/public_html/assets/js/send_email.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/ildjgbmy/public_html/assets/js/send_email.php on line 15
+[28-Aug-2023 01:11:07 America/Boise] PHP Warning:  require(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home4/ildjgbmy/public_html/assets/js/send_email.php on line 15
+[28-Aug-2023 01:11:07 America/Boise] PHP Warning:  require(https://kkrolands.com/assets/js/mail/src/PHPMailer.php): Failed to open stream: no suitable wrapper could be found in /home4/ildjgbmy/public_html/assets/js/send_email.php on line 15
+[28-Aug-2023 01:11:07 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'https://kkrolands.com/assets/js/mail/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/ildjgbmy/public_html/assets/js/send_email.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/ildjgbmy/public_html/assets/js/send_email.php on line 15
